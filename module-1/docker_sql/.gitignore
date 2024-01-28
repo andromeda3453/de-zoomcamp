@@ -1,0 +1,6 @@
+/env
+/.ipynb_checkpoints
+/ny_taxi_postgres_data
+/.vscode
+*.csv
+*.parquet
