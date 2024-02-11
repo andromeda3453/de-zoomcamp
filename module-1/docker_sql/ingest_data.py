@@ -1,4 +1,3 @@
-from stat import FILE_ATTRIBUTE_ENCRYPTED
 import pandas as pd
 from time import time
 from sqlalchemy import create_engine
